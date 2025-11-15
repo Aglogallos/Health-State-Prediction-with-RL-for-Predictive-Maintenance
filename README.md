@@ -1,5 +1,7 @@
 <H1><B>Health State Prediction with Reinforcement Learning for Predictive Maintenance</B></H1> 
 
+DOI of Publication is : Not available yet 
+
 The focus of this study is the CNC Machine Wear Prediction Problem. A CNC (Computer Numerical Control) machine is an automated manufacturing tool that uses pre-programmed computer software to control the movement and operation of machinery, allowing for precise and efficient production of complex parts. The data is provided by the PHM (Prognostics and Health Management) Society and was part of the 2010 PHM Data Challenge. The goal is to predict the wear of the flutes in cutters of a high-speed CNC milling machine using measurements from dynamometer, accelerometer, and acoustic emission sensors. 
 For the predictive maintenance (PdM) task in this context, a specialized methodology has been employed, as illustrated in the diagram below: 
 <BR> <BR>
